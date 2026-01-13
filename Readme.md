@@ -1,3 +1,4 @@
+```
 # git init
 # git remote add origin https://github.com/EgorKasat/Project.git
 # git add .
@@ -7,3 +8,4 @@
 
 
 # git remote -v
+```
